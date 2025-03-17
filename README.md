@@ -6,12 +6,17 @@ usefull for not being complex.
 Installation
 Install pactum via npm.
 shell
-# install pactum
+
+install pactum
 npm install -D pactum
 
-# install a test runner
+install a test runner
 npm install -D mocha
 
 Install pactum via npx.
 shell
 npx pactum-init
+
+
+Run
+npm run test
